@@ -5,6 +5,16 @@ export default defineNuxtConfig({
   modules: ['vuetify-nuxt-module', '@nuxtjs/i18n'],
   css: ['~/assets/css/styles.css'],
   ssr: false,
+  i18n: {
+    defaultLocale: 'vi',
+    locales: [
+      { code: 'en', name: 'English', file: 'en.json' },
+      { code: 'vi', name: 'Tiếng Việt', file: 'vi.json' },
+      { code: 'kr', name: '한국어', file: 'kr.json' },
+      { code: 'jp', name: '日本語', file: 'jp.json' },
+      { code: 'cn', name: '中文', file: 'cn.json' },
+    ],
+  },
   app: {
     baseURL: process.env.NODE_ENV === 'production' ? '/homemassage/' : '/',
     head: {

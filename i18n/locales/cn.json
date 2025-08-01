@@ -1,0 +1,93 @@
+{
+  "banner_title": "上门按摩",
+  "banner_subtitle": "在您家中即可享受专业按摩服务，体验极致放松。",
+  "banner_button": "立即预约",
+  "services_title": "服务项目",
+  "services_description": "我们提供专业按摩服务，帮助您放松身心、恢复健康。",
+  "services_list": [
+    {
+      "name": "全身按摩",
+      "description": "有助于缓解紧张、改善血液循环，并带来深度放松。",
+      "image": "massage-body.svg"
+    },
+    {
+      "name": "热石按摩",
+      "description": "使用热石帮助舒缓肌肉、减轻疼痛并提升活力。",
+      "image": "massage-hot-stones.svg"
+    },
+    {
+      "name": "拔罐与刮痧",
+      "description": "最简单的方法来清热祛寒，疏通经络阻滞。",
+      "image": "massage-herbal.svg"
+    }
+  ],
+  "price_title": "价格表",
+  "price_description": "我们提供符合您需求的合理价格服务套餐。",
+  "price_list": [
+    {
+      "name": "按摩",
+      "items": [
+        {
+          "name": "60分钟",
+          "price": "350K ₫"
+        },
+        {
+          "name": "90分钟",
+          "price": "450K ₫"
+        },
+        {
+          "name": "120分钟",
+          "price": "550K ₫"
+        },
+        {
+          "name": "热石加项",
+          "price": "+50K ₫"
+        },
+        {
+          "name": "拔罐加项",
+          "price": "+50K ₫"
+        }
+      ]
+    },
+    {
+      "name": "VIP 按摩",
+      "description": "* 结合热石与拔罐的深度治疗与放松。",
+      "items": [
+        {
+          "name": "90分钟",
+          "price": "600K ₫"
+        },
+        {
+          "name": "120分钟",
+          "price": "700K ₫"
+        }
+      ]
+    }
+  ],
+  "about_title": "关于我们",
+  "about_description": "岘港上门按摩以其专业性和信誉自豪地为岘港提供优质上门按摩服务。我们拥有经验丰富、经过专业培训的按摩师团队，承诺在您私密舒适的空间内带来最佳的放松体验。我们的使命是在您劳累工作之后帮助您恢复能量、减轻压力、改善整体健康。让我们来照顾您吧！",
+  "about_mission": "我们的使命是在您劳累工作之后帮助您恢复能量、减轻压力、改善整体健康。让我们来照顾您吧！",
+  "testimonials_title": "客户评价",
+  "testimonials_subtitle": "我们很自豪能收到客户的积极反馈。",
+  "testimonials_list": [
+    {
+      "name": "Nguyễn Thị Lan",
+      "from": "Da Nang",
+      "feedback": "服务很棒！按摩师专业且友善。按摩后我完全放松了。",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "name": "Trần Văn An",
+      "from": "Hoi An",
+      "feedback": "我对上门按摩服务非常满意。环境舒适，按摩师细心且敬业。",
+      "avatar": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "name": "Lê Ánh Nguyệt",
+      "from": "Hue",
+      "feedback": "这是我第一次使用上门按摩服务，我印象非常深刻。一定会再来！",
+      "avatar": "https://randomuser.me/api/portraits/women/27.jpg"
+    }
+  ],
+  "contact_title": "联系我们"
+}

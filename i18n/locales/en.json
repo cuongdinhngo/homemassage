@@ -1,0 +1,93 @@
+{
+  "banner_title": "Home Massage",
+  "banner_subtitle": "Experience ultimate relaxation with professional massage services right at your home.",
+  "banner_button": "Book Now",
+  "services_title": "Our Services",
+  "services_description": "We offer professional massage services to help you relax and restore your health.",
+  "services_list": [
+    {
+      "name": "Full Body Massage",
+      "description": "Helps relieve tension, improve circulation, and bring deep relaxation.",
+      "image": "massage-body.svg"
+    },
+    {
+      "name": "Hot Stone Massage",
+      "description": "Using hot stones to soothe muscles, reduce pain and boost energy.",
+      "image": "massage-hot-stones.svg"
+    },
+    {
+      "name": "Cupping & Gua Sha",
+      "description": "The simplest method to clear heat and cold, removing blockages in energy meridians.",
+      "image": "massage-herbal.svg"
+    }
+  ],
+  "price_title": "Pricing",
+  "price_description": "We offer service packages at reasonable prices tailored to your needs.",
+  "price_list": [
+    {
+      "name": "Massage",
+      "items": [
+        {
+          "name": "60 minutes",
+          "price": "350K ₫"
+        },
+        {
+          "name": "90 minutes",
+          "price": "450K ₫"
+        },
+        {
+          "name": "120 minutes",
+          "price": "550K ₫"
+        },
+        {
+          "name": "Hot Stone",
+          "price": "+50K ₫"
+        },
+        {
+          "name": "Cupping",
+          "price": "+50K ₫"
+        }
+      ]
+    },
+    {
+      "name": "VIP Massage",
+      "description": "* Therapy and deep relaxation combined with hot stone and cupping.",
+      "items": [
+        {
+          "name": "90 minutes",
+          "price": "600K ₫"
+        },
+        {
+          "name": "120 minutes",
+          "price": "700K ₫"
+        }
+      ]
+    }
+  ],
+  "about_title": "About Us",
+  "about_description": "Massage Tại Nhà Da Nang proudly provides professional and reputable home massage services in Da Nang. With an experienced, well-trained team of therapists, we commit to delivering the best relaxation experience in the comfort and privacy of your own space. Our mission is to help you recharge, reduce stress, and enhance overall wellness after tiring work hours. Let us take care of you!",
+  "about_mission": "Our mission is to help you recharge, reduce stress, and enhance overall wellness after tiring work hours. Let us take care of you!",
+  "testimonials_title": "What Our Customers Say",
+  "testimonials_subtitle": "We are proud to receive positive feedback from our customers.",
+  "testimonials_list": [
+    {
+      "name": "Nguyễn Thị Lan",
+      "from": "Da Nang",
+      "feedback": "Excellent service! The therapist was professional and friendly. I felt completely relaxed after the massage.",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "name": "Trần Văn An",
+      "from": "Hoi An",
+      "feedback": "I am very satisfied with the home massage service. Comfortable setting, attentive and dedicated therapist.",
+      "avatar": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "name": "Lê Ánh Nguyệt",
+      "from": "Hue",
+      "feedback": "This was my first time using a home massage service and I was very impressed. Definitely coming back!",
+      "avatar": "https://randomuser.me/api/portraits/women/27.jpg"
+    }
+  ],
+  "contact_title": "Contact"
+}

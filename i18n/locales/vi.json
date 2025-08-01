@@ -1,0 +1,97 @@
+{
+  "banner_title": "Massage Tại Nhà",
+  "banner_subtitle": "Trải nghiệm sự thư giãn tuyệt đối với dịch vụ massage chuyên nghiệp ngay tại ngôi nhà của bạn.",
+  "banner_button": "Đặt Lịch Ngay",
+  "services_title": "Dịch Vụ",
+  "services_description": "Chúng tôi cung cấp các dịch vụ massage chuyên nghiệp, giúp bạn thư giãn và phục hồi sức khỏe.",
+  "services_list": [
+    {
+      "name": "Massage Toàn Thân",
+      "description": "Giúp giảm căng thẳng, cải thiện tuần hoàn máu và mang lại cảm giác thư thái sâu sắc.",
+      "image": "massage-body.svg"
+    },
+    {
+      "name": "Massage Đá Nóng",
+      "description": "Sử dụng đá nóng giúp làm dịu cơ bắp, giảm đau nhức và tăng cường năng lượng.",
+      "image": "massage-hot-stones.svg"
+    },
+    {
+      "name": "Giác hơi & Cạo gió",
+      "description": "Phương pháp đơn giản nhất để thanh nhiệt giải hàn, xóa bỏ các điểm tắc nghẽn trong kinh mạch.",
+      "image": "massage-herbal.svg"
+    }
+  ],
+  "price_title": "Bảng Giá",
+  "price_description": "Chúng tôi cung cấp các gói dịch vụ với mức giá hợp lý, phù hợp với nhu cầu của bạn.",
+  "price_list": [
+    {
+      "name": "Massage",
+      "items": [
+        {
+          "name": "60 phút",
+          "price": "350K ₫"
+        },
+        {
+          "name": "90 phút",
+          "price": "450K ₫"
+        },
+        {
+          "name": "120 phút",
+          "price": "550K ₫"
+        },
+        {
+          "name": "120 phút",
+          "price": "550K ₫"
+        },
+        {
+          "name": "Đá nóng",
+          "price": "+50K ₫"
+        },
+        {
+          "name": "Giác hơi",
+          "price": "+50K ₫"
+        }
+      ]
+    },
+    {
+      "name": "VIP Massage",
+      "items": [
+        {
+          "name": "90 phút",
+          "price": "600K ₫"
+        },
+        {
+          "name": "120 phút",
+          "price": "700K ₫"
+        }
+      ],
+      "description": "* Trị liệu, thư giãn sâu kết hợp với đá nóng và giác hơi."
+    }
+  ],
+  "about_title": "Về Chúng Tôi",
+  "about_description": "Massage Tại Nhà Đà Nẵng tự hào là đơn vị cung cấp dịch vụ massage chuyên nghiệp, uy tín hàng đầu tại Đà Nẵng. Với đội ngũ kỹ thuật viên giàu kinh nghiệm, được đào tạo bài bản, chúng tôi cam kết mang đến cho quý khách những trải nghiệm thư giãn tuyệt vời nhất, ngay tại không gian riêng tư và thoải mái của bạn. Sứ mệnh của chúng tôi là giúp bạn tái tạo năng lượng, giảm căng thẳng và cải thiện sức khỏe toàn diện sau những giờ làm việc mệt mỏi. Hãy để chúng tôi chăm sóc bạn!",
+  "about_mission": "Sứ mệnh của chúng tôi là giúp bạn tái tạo năng lượng, giảm căng thẳng và cải thiện sức khỏe toàn diện sau những giờ làm việc mệt mỏi. Hãy để chúng tôi chăm sóc bạn!",
+  "testimonials_title": "Khách Hàng Nói Gì Về Chúng Tôi",
+  "testimonials_subtitle": "Chúng tôi tự hào nhận được nhiều phản hồi tích cực từ khách hàng.",
+  "testimonials_list": [
+    {
+      "name": "Nguyễn Thị Lan",
+      "from": "Đà Nẵng",
+      "feedback": "Dịch vụ tuyệt vời! Kỹ thuật viên rất chuyên nghiệp và thân thiện. Tôi cảm thấy thư giãn hoàn toàn sau buổi massage.",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "name": "Trần Văn An",
+      "from": "Hội An",
+      "feedback": "Tôi rất hài lòng với dịch vụ massage tại nhà. Không gian thoải mái, kỹ thuật viên tận tâm và chu đáo.",
+      "avatar": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "name": "Lê Ánh Nguyệt",
+      "from": "Huế",
+      "feedback": "Đây là lần đầu tiên tôi sử dụng dịch vụ massage tại nhà và tôi rất ấn tượng. Chắc chắn sẽ quay lại!",
+      "avatar": "https://randomuser.me/api/portraits/women/27.jpg"
+    }
+  ],
+  "contact_title": "Liên Hệ"
+}

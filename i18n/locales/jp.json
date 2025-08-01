@@ -1,0 +1,93 @@
+{
+  "banner_title": "出張マッサージ",
+  "banner_subtitle": "ご自宅でプロによるマッサージサービスを受け、究極のリラクゼーションを体験してください。",
+  "banner_button": "今すぐ予約",
+  "services_title": "サービス",
+  "services_description": "リラクゼーションと健康回復をサポートするプロフェッショナルなマッサージサービスをご提供します。",
+  "services_list": [
+    {
+      "name": "全身マッサージ",
+      "description": "緊張を和らげ、血行を促進し、深いリラクゼーションをもたらします。",
+      "image": "massage-body.svg"
+    },
+    {
+      "name": "ホットストーンマッサージ",
+      "description": "温めた石を使用して筋肉を癒し、痛みを軽減し、エネルギーを高めます。",
+      "image": "massage-hot-stones.svg"
+    },
+    {
+      "name": "カッピング＆かっさ",
+      "description": "熱と寒を取り除き、経絡の詰まりを解消する最もシンプルな方法です。",
+      "image": "massage-herbal.svg"
+    }
+  ],
+  "price_title": "料金表",
+  "price_description": "お客様のニーズに合わせた、リーズナブルな価格のサービスプランをご提供します。",
+  "price_list": [
+    {
+      "name": "マッサージ",
+      "items": [
+        {
+          "name": "60分",
+          "price": "350K ₫"
+        },
+        {
+          "name": "90分",
+          "price": "450K ₫"
+        },
+        {
+          "name": "120分",
+          "price": "550K ₫"
+        },
+        {
+          "name": "ホットストーン追加",
+          "price": "+50K ₫"
+        },
+        {
+          "name": "カッピング追加",
+          "price": "+50K ₫₫"
+        }
+      ]
+    },
+    {
+      "name": "VIPマッサージ",
+      "description": "* ホットストーンとカッピングを組み合わせたセラピー兼深いリラクゼーションです。",
+      "items": [
+        {
+          "name": "90分",
+          "price": "600K ₫"
+        },
+        {
+          "name": "120分",
+          "price": "700K ₫"
+        }
+      ]
+    }
+  ],
+  "about_title": "私たちについて",
+  "about_description": "ダナンホームマッサージは、ダナンでプロフェッショナルかつ信頼できる出張マッサージサービスを誇りに提供しています。経験豊富で教育を受けたセラピストチームが、ご自宅のプライベート空間で最高のリラクゼーション体験をお届けします。私たちの使命は、疲れた日常の後にエネルギーを回復し、ストレスを軽減し、全体的な健康を向上させることです。ぜひお任せください！",
+  "about_mission": "私たちの使命は、疲れた日常の後にエネルギーを回復し、ストレスを軽減し、全体的な健康を向上させることです。ぜひお任せください！",
+  "testimonials_title": "お客様の声",
+  "testimonials_subtitle": "私たちはお客様からのポジティブなフィードバックを誇りに思っています。",
+  "testimonials_list": [
+    {
+      "name": "Nguyễn Thị Lan",
+      "from": "Da Nang",
+      "feedback": "素晴らしいサービスです！セラピストはプロフェッショナルで親切でした。マッサージ後は完全にリラックスできました。",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "name": "Trần Văn An",
+      "from": "Hoi An",
+      "feedback": "出張マッサージに非常に満足しています。快適な環境で、心のこもったセラピストでした。",
+      "avatar": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "name": "Lê Ánh Nguyệt",
+      "from": "Hue",
+      "feedback": "ホームマッサージを初めて利用しましたが、とても印象的でした。必ずまた利用します！",
+      "avatar": "https://randomuser.me/api/portraits/women/27.jpg"
+    }
+  ],
+  "contact_title": "お問い合わせ"
+}
