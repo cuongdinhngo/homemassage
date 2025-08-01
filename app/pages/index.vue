@@ -5,7 +5,7 @@
         cols="12"
         class="d-flex align-center justify-space-between"
       >
-        <img src="/logos/logo-black.png" width="169" height="48"/>
+        <img :src="getLogo('logo-black.png')" width="169" height="48"/>
         
         <v-menu
           :close-on-content-click="false"
@@ -13,7 +13,7 @@
           <template v-slot:activator="{ props }">
             <img
               v-bind="props"
-              src="/flags/vi.svg" width="32" height="25"
+              :src="getFlag('vi.svg')" width="32" height="25"
               class="rounded-lg"
             />
           </template>
@@ -26,7 +26,7 @@
             >
               <template #prepend>
                 <img
-                  :src="`/flags/${item.icon}`" width="32" height="25" class="mr-2 rounded-lg border-thin"
+                  :src="getFlag(item.icon)" width="32" height="25" class="mr-2 rounded-lg border-thin"
                 />
               </template>
             </v-list-item>
@@ -46,7 +46,7 @@
         <v-card class="rounded-lg elevation-2" flat>
           <v-responsive :aspect-ratio="16/9">
             <v-img
-              src="/images/banner.png"
+              :src="getImage('banner.png')"
               cover
               elevation="2"
             ></v-img>
@@ -76,7 +76,7 @@
         <v-card class="rounded-lg elevation-2" flat>
           <v-responsive :aspect-ratio="16/9">
             <v-img
-              src="/images/banner.png"
+              :src="getImage('banner.png')"
               cover
               elevation="2"
             ></v-img>
@@ -107,7 +107,7 @@
               <div class="d-flex flex-column align-center">
                 <v-avatar
                   size="56" tile class="d-flex align-center justify-center"
-                  image="/images/massage-body.svg"
+                  :image="getImage('massage-body.svg')"
                 ></v-avatar>
                 <h3 class="text-h5 text-center">Massage Toàn Thân</h3>
               </div>
@@ -123,7 +123,7 @@
               <div class="d-flex flex-column align-center">
                 <v-avatar
                   size="56" tile class="d-flex align-center justify-center"
-                  image="/images/massage-body.svg"
+                  :image="getImage('massage-body.svg')"
                 ></v-avatar>
                 <h3 class="text-h5 text-center">Massage Toàn Thân</h3>
               </div>
@@ -139,7 +139,7 @@
               <div class="d-flex flex-column align-center">
                 <v-avatar
                   size="56" tile class="d-flex align-center justify-center"
-                  image="/images/massage-body.svg"
+                  :image="getImage('massage-body.svg')"
                 ></v-avatar>
                 <h3 class="text-h5 text-center">Massage Toàn Thân</h3>
               </div>
@@ -238,7 +238,7 @@
       <v-row>
         <v-col cols="12" sm="6" md="6" class="d-flex align-center justify-center">
           <v-img
-            src="/images/about-us.jpg"
+            :src="getImage('about-us.jpg')"
             class="rounded-lg"
             cover
             height="380"
@@ -320,7 +320,7 @@
       <v-row>
         <v-col cols="12" sm="6" md="6" :class="smAndDown ? 'text-center' : 'text-left'">
           <img
-            src="/logos/logo-white.png"
+            :src="getLogo('logo-white.png')"
             cover
             height="70"
           />
@@ -330,28 +330,28 @@
           <div class="d-flex align-center ga-3">
             <v-avatar
               size="32"
-              image="/contacts/phone.svg"
+              :image="getContact('phone.svg')"
               @click=""
             ></v-avatar>
             <v-avatar
               size="32"
-              image="/contacts/facebook.svg"
+              :image="getContact('facebook.svg')"
             ></v-avatar>
             <v-avatar
               size="32"
-              image="/contacts/kakaotalk.svg"
+              :image="getContact('kakaotalk.svg')"
             ></v-avatar>
             <v-avatar
               size="32"
-              image="/contacts/wechat.svg"
+              :image="getContact('wechat.svg')"
             ></v-avatar>
             <v-avatar
               size="32"
-              image="/contacts/whatsapp.svg"
+              :image="getContact('whatsapp.svg')"
             ></v-avatar>
             <v-avatar
               size="32"
-              image="/contacts/zalo.svg"
+              :image="getContact('zalo.svg')"
               class="bg-white"
             ></v-avatar>
           </div>

@@ -4,7 +4,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['vuetify-nuxt-module'],
   css: ['~/assets/css/styles.css'],
+  ssr: false,
   app: {
+    baseURL: process.env.NODE_ENV === 'production' ? '/homemassage/' : '/',
     head: {
       title: 'Home Massage',
       meta: [
