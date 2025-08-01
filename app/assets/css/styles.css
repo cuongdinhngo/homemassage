@@ -1,0 +1,15 @@
+/* Global font styles */
+body {
+  font-family: 'Lora', serif;
+
+  scroll-behavior: smooth;  
+}
+
+/* Title fonts */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Farsan', serif;
+}
+
+p, span {
+  font-family: 'Lora', serif !important;
+}
