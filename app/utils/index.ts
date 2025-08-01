@@ -1,11 +1,11 @@
 export const getAssetUrl = (path: string) => {
-  const cleanPath = path.startsWith('/') ? path.slice(1) : path
+  const cleanPath = path.startsWith('/') ? path.slice(1) : path;
   
   if (process.env.NODE_ENV !== 'production') {
     return `/${cleanPath}`
   }
   
-  return `${useAppConfig().baseUrl}${cleanPath}`
+  return `${useRuntimeConfig().app.baseURL}${cleanPath}`
 }
 
 export const getFlag = (locale: string) => {
