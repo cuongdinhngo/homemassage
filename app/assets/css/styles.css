@@ -7,9 +7,13 @@ body {
 
 /* Title fonts */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Farsan', serif;
+  font-family: 'Sansita Swashed', system-ui;
 }
 
 p, span {
   font-family: 'Lora', serif !important;
+}
+
+.header-font {
+  font-family: 'Sansita Swashed', system-ui;
 }

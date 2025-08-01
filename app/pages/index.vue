@@ -13,7 +13,7 @@
           <template v-slot:activator="{ props }">
             <img
               v-bind="props"
-              src="/flags/vi.svg" width="42" height="32"
+              src="/flags/vi.svg" width="32" height="25"
               class="rounded-lg"
             />
           </template>
@@ -26,7 +26,7 @@
             >
               <template #prepend>
                 <img
-                  :src="`/flags/${item.icon}`" width="42" height="32" class="mr-2 rounded-lg border-thin"
+                  :src="`/flags/${item.icon}`" width="32" height="25" class="mr-2 rounded-lg border-thin"
                 />
               </template>
             </v-list-item>
@@ -58,7 +58,7 @@
         cols="12" sm="6" md="6" lg="6"
         class="d-flex flex-column justify-center align-center"
       >
-        <h1 class="text-center text-h4 mb-4 font-weight-bold">Massage Tại Nhà</h1>
+        <h1 class="text-center mb-4 text-h1 header-font">Massage Tại Nhà</h1>
         <p class="text-center text-body-1 mb-6">Trải nghiệm sự thư giãn tuyệt đối với dịch vụ massage chuyên nghiệp ngay tại ngôi nhà của bạn.</p>
         <v-btn
           text="Đặt Lịch Ngay"

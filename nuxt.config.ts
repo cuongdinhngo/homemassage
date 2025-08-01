@@ -23,7 +23,7 @@ export default defineNuxtConfig({
         },
         {
           rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/css2?family=Farsan&family=Lora:ital,wght@0,400..700;1,400..700&display=swap',
+          href: 'https://fonts.googleapis.com/css2?family=Farsan&family=Lora:ital,wght@0,400..700;1,400..700&family=Sansita+Swashed:wght@300..900&display=swap',
         },
         {
           rel: 'icon',
