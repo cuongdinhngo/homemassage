@@ -28,7 +28,7 @@
             <img
               v-bind="props"
               :src="getFlag(`${locale}.svg`)" width="32" height="25"
-              class="rounded-lg"
+              class="rounded-lg border-thin"
             />
           </template>
           <v-list>
